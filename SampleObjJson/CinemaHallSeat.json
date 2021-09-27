@@ -1,0 +1,33 @@
+	[{
+		"seatNumber": "A1",
+		"seatRow": 1,
+		"seatColumn": 1
+	},{
+		"seatNumber": "A2",
+		"seatRow": 1,
+		"seatColumn": 2
+	},{
+		"seatNumber": "A3",
+		"seatRow": 1,
+		"seatColumn": 3
+	},{
+		"seatNumber": "A4",
+		"seatRow": 1,
+		"seatColumn": 4
+	},{
+		"seatNumber": "B1",
+		"seatRow": 2,
+		"seatColumn": 1
+	},{
+		"seatNumber": "B2",
+		"seatRow": 2,
+		"seatColumn": 2
+	},{
+		"seatNumber": "B3",
+		"seatRow": 2,
+		"seatColumn": 3
+	},{
+		"seatNumber": "B4",
+		"seatRow": 2,
+		"seatColumn": 4
+	}]	

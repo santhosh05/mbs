@@ -1,0 +1,9 @@
+{
+	"title": "MovieTitle1",
+	"description": "Movie description 1",
+	"languages": "Tamil",
+	"country": "India",
+	"genre": "Comedy,Action",
+	"movieDurationInMins": 150,
+	"releaseDate": "2021-09-25T00:00:00.000+00:00"
+}

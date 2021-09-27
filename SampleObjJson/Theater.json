@@ -1,0 +1,9 @@
+{
+	"theaterId": "pvr_velachery",
+	"name":  "PVR",
+	"address": {
+		"pincode": "600 042",
+		"city"  :"Chennai",
+		"state": "Tamil Nadu"
+	}
+}

@@ -1,0 +1,19 @@
+[
+	{
+		"startTime": "2021-09-25T05:30:00.000+00:00",
+		"showCostInRs": "240",
+		"movie": "MovieTitle1",
+		"theater": "pvr_velachery",
+		"cinemaHall": "pvr_screen_1"
+	}
+	
+,	
+{
+	"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzI2NzE3NDAsInVzZXJfbmFtZSI6InNhbnRob3NoIiwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiOWU4ZGVkMDAtOTM2MC00ZjRiLWIwZTktNWMxYWJiZDhkOTQxIiwiY2xpZW50X2lkIjoidGVzdGp3dGNsaWVudGlkIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl19.dipionmj-kaby9kg_Nxmi7jGGUYAfEh9-bd5DCFNANE",
+	"token_type": "bearer",
+	"refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJzYW50aG9zaCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJhdGkiOiI5ZThkZWQwMC05MzYwLTRmNGItYjBlOS01YzFhYmJkOGQ5NDEiLCJleHAiOjE2MzUyNjI4NDAsImF1dGhvcml0aWVzIjpbIkFETUlOIl0sImp0aSI6Ijc0OWFmM2NkLWIxNDUtNDFlYS05MmUxLTJlODAzNzFmMzE5ZCIsImNsaWVudF9pZCI6InRlc3Rqd3RjbGllbnRpZCJ9.WtvaUljuNbwndd8PDGrOhCBO_tN4soI0zmo0s-5T9Ak",
+	"expires_in": 897,
+	"scope": "read write",
+	"jti": "9e8ded00-9360-4f4b-b0e9-5c1abbd8d941"
+}
+]
