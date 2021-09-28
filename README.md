@@ -17,4 +17,4 @@ A simple movie ticket booking system.
  * Seats are blocked on first come first serve basis. if unfortunately the same seat is chosen  by more than one user the one who blocked most number of tickets is allowed for booking. If there is a tie then the user is selected randomly.
  * Single DB instance is enough for maintaining the state of the application, irrespective of application instance 
 count.
- * Currently assumed Payment API is not integrated
+ * Currently assumed Payment API is sending either SUCCESS or FAILURE
