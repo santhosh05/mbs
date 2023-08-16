@@ -3,7 +3,7 @@ A simple movie ticket booking system.
 
 #### API DOCUMENT 
 
-* All the api's have been published. please click below link for detailed information
+* All the api's have been documented. please click below link for detailed information
 
  *  [API'S](https://documenter.getpostman.com/view/17659078/UUxzA7pW)
 
